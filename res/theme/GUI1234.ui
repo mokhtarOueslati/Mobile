@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="GUI1234" cloudDestinationProperty="GUI1234" layout="BoxLayout" boxLayoutAxis="Y" >
+  <component type="TextField" name="TADD" cloudBoundProperty="text" cloudDestinationProperty="TADD" text="" hint="Nom" >
+  </component>
+  <component type="TextField" name="TADD1" cloudBoundProperty="text" cloudDestinationProperty="TADD1" text="" hint="Description" >
+  </component>
+  <component type="TextField" name="TADD3" cloudBoundProperty="text" cloudDestinationProperty="TADD3" text="" hint="Destination" >
+  </component>
+  <component type="TextField" name="TADD2" cloudBoundProperty="text" cloudDestinationProperty="TADD2" text="" hint="Date De Depart" >
+  </component>
+  <component type="TextField" name="TADD4" cloudBoundProperty="text" cloudDestinationProperty="TADD4" text="" hint="Nombre De Place" >
+  </component>
+  <component type="Button" name="B2" cloudDestinationProperty="Button" text="Creer" >
+  </component>
+</component>

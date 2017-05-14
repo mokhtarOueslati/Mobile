@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="GUI1" cloudDestinationProperty="GUI1" layout="FlowLayout" flowLayoutFillRows="false" flowLayoutAlign="4" flowLayoutValign="4" >
+  <component type="Container" name="Container" cloudDestinationProperty="Container" scrollVisible="false" layout="BoxLayout" boxLayoutAxis="Y" >
+    <component type="TextField" name="T1" cloudBoundProperty="text" cloudDestinationProperty="T1" rtl="false" text="" hint="login" >
+    </component>
+    <component type="TextField" name="T2" cloudBoundProperty="text" cloudDestinationProperty="T2" snapToGrid="true" text="" constraint="65536" hint="Password" >
+    </component>
+    <component type="Button" name="Button" cloudDestinationProperty="Button" text="sign in " >
+    </component>
+  </component>
+</component>
